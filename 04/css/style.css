@@ -1,0 +1,21 @@
+body{
+    background-color: #f4f4f4;
+}
+.menu{
+    background-color: white;
+    color:#333333;
+    display:flex;
+    margin: 20px;
+}
+
+.menu__item{
+    padding: 10px 20px
+}
+.menu__item:hover{
+    border-top: 5px solid #009ae1;
+}
+
+.items{
+    background-color: #333333;
+    color: white;
+}
